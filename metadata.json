@@ -1,0 +1,6 @@
+{
+  "name": "SIMPATTI Lapor Pusat SPMI",
+  "description": "Portal Pelaporan Pusat Siklus PPEPP SPMI Kemdiktisaintek untuk LPMPP Universitas Pattimura (001021)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
